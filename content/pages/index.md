@@ -57,7 +57,6 @@ sections:
     subtitle: Introducing our
     grid_items:
       - title: Sajidul Islam
-        subtitle: T
         image: /images/sajidul islam.jpg
         image_alt: Speaker 1 photo
         image_position: top
