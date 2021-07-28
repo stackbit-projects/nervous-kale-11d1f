@@ -74,7 +74,7 @@ sections:
         image: /images/kazi rishika.jpg
         image_alt: Speaker 2 photo
         image_position: top
-        image_width: twenty-five
+        image_width: sixty
         image_align: center
         image_has_padding: false
       - title: Indigo Violet
