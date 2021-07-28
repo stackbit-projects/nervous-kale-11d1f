@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      ### ****
+      ###
     actions:
       - label: ORDER NOW
         url: /about
