@@ -74,6 +74,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
+        title: CHICKEN PIZZA
       - title: Just Getting Started
         subtitle: April 14 - 15
         title_align: left
