@@ -88,6 +88,7 @@ sections:
         image: /images/tausiffur rahman alif.jpg
         image_alt: Speaker 3 photo
         image_position: top
+        image_has_padding: true
       - title: Penny Tool
         subtitle: 'Libris, USA'
         content: >-
