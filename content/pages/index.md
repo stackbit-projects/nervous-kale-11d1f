@@ -21,9 +21,8 @@ sections:
     grid_items:
       - title: TAP
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: |
+          Order pizza from anywhere with just 1 tap.
         content_align: left
         image: /images/Group 6.png
         image_alt: Section item 1 icon
