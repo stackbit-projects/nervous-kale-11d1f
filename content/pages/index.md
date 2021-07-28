@@ -59,7 +59,9 @@ sections:
       - subtitle: For Chicken Lovers
         title_align: left
         content: |
-          ### $49&#xA;&#xA;
+
+
+          ### $49&#xA;
 
           Watch Only access to Summit & Base Camp Tracks
 
