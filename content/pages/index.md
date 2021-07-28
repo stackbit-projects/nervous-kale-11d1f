@@ -192,7 +192,7 @@ sections:
         image_position: top
     grid_cols: three
     grid_gap_horiz: medium
-    grid_gap_vert: large
+    grid_gap_vert: medium
     align: center
     background_color: none
   - type: grid_section
