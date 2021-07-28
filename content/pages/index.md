@@ -56,7 +56,7 @@ sections:
     title: Founding Members
     subtitle: Introducing our
     grid_items:
-      - title: Eric Widget
+      - title: Sajidul Islam
         subtitle: 'React Awesome, USA'
         image: /images/sajidul islam.jpg
         image_alt: Speaker 1 photo
