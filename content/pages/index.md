@@ -123,7 +123,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    background_image: /images/faq-background.svg
+    background_image: /images/20-speakers.svg
     background_image_size: contain
 seo:
   title: Stackbit Event Theme
