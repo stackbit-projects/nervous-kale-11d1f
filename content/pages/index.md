@@ -95,7 +95,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - subtitle: April 14 - 16
+      - subtitle: For Pizzaroni Lovers
         title_align: left
         content: |-
           ---
