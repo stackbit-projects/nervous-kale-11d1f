@@ -136,10 +136,10 @@ sections:
         content: |
           Dhaka, Bangladesh
 
-          [1-234-556-7890](tel:+12345567890)
+          [Phone: 1-234-556-7890](tel:+12345567890)
 
-          \</br>
-          [pizzaroni@example.com](mailto:email@example.com)
+
+          [Email: pizzaroni@example.com](mailto:email@example.com)
 
           **Time:** 10:00 AM to 8:00 PM
     grid_cols: two
