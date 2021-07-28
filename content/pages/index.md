@@ -138,7 +138,7 @@ sections:
 
           **Phone:** 019XXX-XXXXX
 
-          **Email: **inbox@pizzaroni.com
+          **Email:** inbox@pizzaroni.com
 
           **Time:** 10:00 AM to 8:00 PM
     grid_cols: two
