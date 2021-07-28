@@ -56,7 +56,7 @@ sections:
     title: Pricing
     subtitle: Pass for the event
     grid_items:
-      - subtitle: For Chicken Lovers
+      - subtitle: Starts From
         title_align: left
         content: |
           ***
