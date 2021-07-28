@@ -52,21 +52,6 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - title: Technology Discussion Rooms for All Attendees
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    padding_top: none
-    background_color: none
   - type: cta_section
     title: Current price is only $49. The price will increase soon!
     actions:
