@@ -72,8 +72,6 @@ sections:
           *   Elementum eu rhoncus, volutpat
 
           *   Fringilla diam magnis libero lacinia
-
-          *
         content_align: left
         actions:
           - label: Registration
