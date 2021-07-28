@@ -75,7 +75,7 @@ sections:
         actions_align: left
         actions_width: full-width
         title: CHICKEN PIZZA
-      - title: Just Getting Started
+      - title: VEGETABLE PIZZA
         subtitle: April 14 - 15
         title_align: left
         content: |-
