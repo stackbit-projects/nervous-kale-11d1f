@@ -58,7 +58,7 @@ sections:
     grid_items:
       - title: Eric Widget
         subtitle: 'React Awesome, USA'
-        image: images/avatar_1.jpg
+        image: /images/sajidul islam.jpg
         image_alt: Speaker 1 photo
         image_position: top
       - title: Parsley Montana
