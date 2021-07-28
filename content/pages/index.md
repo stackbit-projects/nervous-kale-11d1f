@@ -9,6 +9,15 @@ sections:
         url: /about
         style: primary
         has_icon: false
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     align: center
     padding_top: large
     padding_bottom: large
