@@ -30,7 +30,8 @@ sections:
         image_width: twenty-five
       - title: TRACK
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: |
+          Track your delivery so it won't get cold.
         content_align: left
         image: /images/Group 7.png
         image_alt: Section item 2 icon
