@@ -17,6 +17,7 @@ sections:
     background_image_size: cover
     image: /images/pizzaroni text.png
     background_image: /images/ivan-torres-MQUqbmszGGM-unsplash.jpg
+    subtitle: LOVE AT FIRST SLICE
   - type: grid_section
     grid_items:
       - title: TAP
