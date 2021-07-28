@@ -75,6 +75,7 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
         image_width: twenty-five
+        image_align: center
       - title: Indigo Violet
         subtitle: 'Microsoft, USA'
         content: >-
