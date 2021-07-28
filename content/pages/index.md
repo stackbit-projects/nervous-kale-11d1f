@@ -89,7 +89,7 @@ sections:
         image_alt: Speaker 3 photo
         image_position: top
         image_has_padding: true
-      - title: Penny Tool
+      - title: Sifat Bin Hossain
         subtitle: 'Libris, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
