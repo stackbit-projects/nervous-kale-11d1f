@@ -61,7 +61,7 @@ sections:
         image: /images/sajidul islam.jpg
         image_alt: Speaker 1 photo
         image_position: top
-      - title: Parsley Montana
+      - title: Kazi Rishika
         subtitle: 'The Studio, Distributed, Estonia'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
