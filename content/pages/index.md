@@ -56,8 +56,7 @@ sections:
     title: Pricing
     subtitle: Pass for the event
     grid_items:
-      - title: Beginner's Taste
-        subtitle: April 14
+      - subtitle: April 14
         title_align: left
         content: |-
           ---
