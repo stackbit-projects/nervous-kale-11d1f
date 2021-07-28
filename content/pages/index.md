@@ -76,7 +76,7 @@ sections:
         actions_width: full-width
         title: CHICKEN PIZZA
       - title: VEGETABLE PIZZA
-        subtitle: April 14 - 15
+        subtitle: 'For '
         title_align: left
         content: |-
           ---
