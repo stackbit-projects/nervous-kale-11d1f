@@ -85,7 +85,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_3.jpg
+        image: /images/tausiffur rahman alif.jpg
         image_alt: Speaker 3 photo
         image_position: top
       - title: Penny Tool
