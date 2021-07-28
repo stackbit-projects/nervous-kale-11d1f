@@ -61,7 +61,7 @@ sections:
         image: /images/sajidul islam.jpg
         image_alt: Speaker 1 photo
         image_position: top
-        image_has_padding: false
+        image_has_padding: true
         image_align: left
       - title: Kazi Rishika
         subtitle: 'The Studio, Distributed, Estonia'
