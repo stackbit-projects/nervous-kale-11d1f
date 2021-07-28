@@ -59,13 +59,11 @@ sections:
       - subtitle: For Chicken Lovers
         title_align: left
         content: |
-          ***
+          ### $49&#xA;&#xA;
 
-          ##### Starts From
+          Watch Only access to Summit & Base Camp Tracks
 
-          ### 150TK
-
-          ##### Conference Stickers
+          *   Conference Stickers
 
           *   Technology discussion rooms
 
