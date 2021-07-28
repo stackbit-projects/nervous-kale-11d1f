@@ -102,7 +102,7 @@ sections:
     background_color: none
     enable_cards: true
     background_image_opacity: 0
-    padding_bottom: none
+    padding_bottom: large
   - type: grid_section
     grid_items:
       - title: Address
