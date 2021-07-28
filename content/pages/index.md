@@ -191,7 +191,7 @@ sections:
         image_alt: Speaker 4 photo
         image_position: top
     grid_cols: three
-    grid_gap_horiz: small
+    grid_gap_horiz: large
     grid_gap_vert: small
     align: center
     background_color: none
