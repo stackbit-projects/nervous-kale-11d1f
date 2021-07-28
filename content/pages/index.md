@@ -73,7 +73,7 @@ sections:
           **[Twitter](https://twitter.com/)**
         image: /images/kazi rishika.jpg
         image_alt: Speaker 2 photo
-        image_position: top
+        image_position: bottom
       - title: Indigo Violet
         subtitle: 'Microsoft, USA'
         content: >-
