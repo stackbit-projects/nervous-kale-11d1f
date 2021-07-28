@@ -69,7 +69,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_2.jpg
+        image: /images/kazi rishika.jpg
         image_alt: Speaker 2 photo
         image_position: top
       - title: Indigo Violet
