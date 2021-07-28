@@ -78,7 +78,7 @@ sections:
         image_position: top
         image_has_padding: true
       - title: Sifat Bin Hossain
-        subtitle: 'Libris, USA'
+        subtitle: Team Member
         image_alt: Speaker 4 photo
         image_position: top
       - title: Al-Arabi
