@@ -227,6 +227,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+    background_image: /images/cta-background.png
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
