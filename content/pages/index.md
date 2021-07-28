@@ -54,7 +54,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Founding Members
-    subtitle: Fantastic lineup of experts!
+    subtitle: Introducing our
     grid_items:
       - title: Eric Widget
         subtitle: 'React Awesome, USA'
