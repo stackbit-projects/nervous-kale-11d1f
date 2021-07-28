@@ -58,15 +58,16 @@ sections:
     grid_items:
       - subtitle: For Chicken Lovers
         title_align: left
-        content: |-
-          ---
-          ### Free
+        content: |
+          ***
+
+          ### Starts from 150TK
 
           Watch only access for Base Camp track
 
-          * Conference Stickers
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
+          *   Conference Stickers
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
         content_align: left
         actions:
           - label: Registration
