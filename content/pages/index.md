@@ -130,7 +130,7 @@ sections:
     align: center
     background_color: none
     enable_cards: true
-    background_image_opacity: 10
+    background_image_opacity: 0
   - type: grid_section
     grid_items:
       - title: Address
