@@ -63,9 +63,9 @@ sections:
 
           ##### Starts From
 
-          ### 150TKConference Stickers
+          ### 150TK
 
-
+          Conference Stickers
 
           *   Technology discussion rooms
 
