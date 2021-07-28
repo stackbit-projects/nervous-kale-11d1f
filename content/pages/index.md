@@ -195,6 +195,7 @@ sections:
     grid_gap_vert: small
     align: center
     background_color: none
+    enable_cards: true
   - type: grid_section
     title: What People are Saying
     subtitle: Previous event attendees
