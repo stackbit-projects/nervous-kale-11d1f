@@ -64,7 +64,7 @@ sections:
         image_align: left
         subtitle: Team Member
       - title: Kazi Rishika
-        subtitle: 'The Studio, Distributed, Estonia'
+        subtitle: Team Leader
         image: /images/kazi rishika.jpg
         image_alt: Speaker 2 photo
         image_position: top
