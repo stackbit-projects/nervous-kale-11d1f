@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: LOVE AT FIRST SLICE
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
