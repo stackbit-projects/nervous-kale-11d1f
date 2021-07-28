@@ -278,6 +278,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
+    background_image: /images/cta-background.png
   - type: grid_section
     grid_items:
       - title: Address
