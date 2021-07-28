@@ -82,7 +82,7 @@ sections:
         image_alt: Speaker 4 photo
         image_position: top
       - title: Al-Arabi
-        subtitle: lorem-ipsum
+        subtitle: Team Member
         title_align: left
         content_align: left
         actions: []
