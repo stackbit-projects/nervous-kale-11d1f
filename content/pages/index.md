@@ -97,7 +97,7 @@ sections:
         image: /images/pfp.JPG
     grid_cols: three
     grid_gap_horiz: large
-    grid_gap_vert: small
+    grid_gap_vert: large
     align: center
     background_color: none
     enable_cards: true
