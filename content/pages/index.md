@@ -56,7 +56,7 @@ sections:
     title: Pricing
     subtitle: Pass for the event
     grid_items:
-      - title: Base Camp Ticket
+      - title: BEG
         subtitle: April 14
         title_align: left
         content: |-
