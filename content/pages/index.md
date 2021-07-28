@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      # **Love At First Slice**
+      ## **Love At First Slice**
     actions:
       - label: ORDER NOW
         url: /about
