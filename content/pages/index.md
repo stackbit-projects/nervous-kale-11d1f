@@ -74,7 +74,7 @@ sections:
         image: /images/kazi rishika.jpg
         image_alt: Speaker 2 photo
         image_position: top
-        image_width: fourty
+        image_width: twenty-five
       - title: Indigo Violet
         subtitle: 'Microsoft, USA'
         content: >-
