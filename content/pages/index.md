@@ -134,10 +134,9 @@ sections:
     grid_items:
       - title: Address
         content: |
-          Dhaka, Bangladesh
+          Location: Dhaka, Bangladesh
 
           [Phone: 1-234-556-7890](tel:+12345567890)
-
 
           [Email: pizzaroni@example.com](mailto:email@example.com)
 
