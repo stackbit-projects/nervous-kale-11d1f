@@ -53,18 +53,6 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: What you’ll experience
-    features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
-        align: center
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
-  - type: features_section
     features:
       - title: Technology Discussion Rooms for All Attendees
         content: >-
