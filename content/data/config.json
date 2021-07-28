@@ -2,7 +2,7 @@
     "title": "Pizzaroni Official Website",
     "path_prefix": "/",
     "layout_type": "full-width",
-    "style": "minimal",
+    "style": "classic",
     "palette": "red",
     "mode": "dark",
     "base_font": "sans-serif",
