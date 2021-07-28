@@ -53,7 +53,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: Speakers & Instructors
+    title: Founding Members
     subtitle: Fantastic lineup of experts!
     grid_items:
       - title: Eric Widget
