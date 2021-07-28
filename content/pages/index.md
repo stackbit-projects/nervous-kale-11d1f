@@ -70,6 +70,79 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
   - type: grid_section
+    title: Pricing
+    subtitle: Pass for the event
+    grid_items:
+      - title: Base Camp Ticket
+        subtitle: April 14
+        title_align: left
+        content: |-
+          ---
+          ### Free
+
+          Watch only access for Base Camp track
+
+          * Conference Stickers
+          * Quisque eleifend imperdiet tortor
+          * Elementum eu rhoncus, volutpat
+        content_align: left
+        actions:
+          - label: Registration
+            url: /thank-you
+            style: primary
+        actions_align: left
+        actions_width: full-width
+      - title: Summit ticket
+        subtitle: April 14 - 15
+        title_align: left
+        content: |-
+          ---
+          ### $49
+
+          Watch Only access to Summit & Base Camp Tracks
+
+          * Conference Stickers
+          * Technology discussion rooms
+          * Elementum eu rhoncus, volutpat
+          * Fringilla diam magnis libero lacinia
+        content_align: left
+        actions:
+          - label: Registration
+            url: /thank-you
+            style: primary
+        actions_align: left
+        actions_width: full-width
+      - title: Full Ticket
+        subtitle: April 14 - 16
+        title_align: left
+        content: |-
+          ---
+          ### $139
+
+          HD quality for Base camp and Summit tracks
+
+          * Interactive sessions with speakers
+          * Conference Stickers & more sent to your home
+          * Q&A with speakers
+          * Certificates on Workshops
+          * Technology discussion rooms
+        content_align: left
+        actions:
+          - label: Order Now
+            url: /thank-you
+            style: primary
+        actions_align: left
+        actions_width: full-width
+    grid_cols: three
+    grid_gap_horiz: small
+    grid_gap_vert: small
+    enable_cards: true
+    padding_top: small
+    padding_bottom: medium
+    background_color: primary
+    background_image: images/pricing-background.jpg
+    background_image_opacity: 10
+  - type: grid_section
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
     grid_items:
@@ -166,79 +239,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
-  - type: grid_section
-    title: Pricing
-    subtitle: Pass for the event
-    grid_items:
-      - title: Base Camp Ticket
-        subtitle: April 14
-        title_align: left
-        content: |-
-          ---
-          ### Free
-
-          Watch only access for Base Camp track
-
-          * Conference Stickers
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-        content_align: left
-        actions:
-          - label: Registration
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - title: Summit ticket
-        subtitle: April 14 - 15
-        title_align: left
-        content: |-
-          ---
-          ### $49
-
-          Watch Only access to Summit & Base Camp Tracks
-
-          * Conference Stickers
-          * Technology discussion rooms
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-        content_align: left
-        actions:
-          - label: Registration
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - title: Full Ticket
-        subtitle: April 14 - 16
-        title_align: left
-        content: |-
-          ---
-          ### $139
-
-          HD quality for Base camp and Summit tracks
-
-          * Interactive sessions with speakers
-          * Conference Stickers & more sent to your home
-          * Q&A with speakers
-          * Certificates on Workshops
-          * Technology discussion rooms
-        content_align: left
-        actions:
-          - label: Order Now
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-    grid_cols: three
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    enable_cards: true
-    padding_top: small
-    padding_bottom: medium
-    background_color: primary
-    background_image: images/pricing-background.jpg
-    background_image_opacity: 10
   - type: grid_section
     title: What People are Saying
     subtitle: Previous event attendees
