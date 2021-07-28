@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      # **LOVE AT FIRST SLICE**
+      ### **LOVE AT FIRST SLICE**
     actions:
       - label: Get Your Ticket Today!
         url: /about
