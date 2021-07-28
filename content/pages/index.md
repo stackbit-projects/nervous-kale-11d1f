@@ -16,6 +16,7 @@ sections:
     background_image_opacity: 15
     background_image_size: cover
     image: /images/pizzaroni text.png
+    background_image: /images/ivan-torres-MQUqbmszGGM-unsplash.jpg
   - type: grid_section
     grid_items:
       - title: 2 Days
