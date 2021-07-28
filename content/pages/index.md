@@ -72,7 +72,7 @@ sections:
         image_align: center
         image_has_padding: true
       - title: Tausiffur Rahman Alif
-        subtitle: 'Microsoft, USA'
+        subtitle: Team Member
         image: /images/tausiffur rahman alif.jpg
         image_alt: Speaker 3 photo
         image_position: top
