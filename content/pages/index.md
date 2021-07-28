@@ -58,13 +58,22 @@ sections:
     grid_items:
       - subtitle: For Chicken Lovers
         title_align: left
-        content: |+
+        content: |
           ***
 
           ##### Starts From
 
-          ### 150TK
+          ### 150TKConference Stickers
 
+
+
+          *   Technology discussion rooms
+
+          *   Elementum eu rhoncus, volutpat
+
+          *   Fringilla diam magnis libero lacinia
+
+          *
         content_align: left
         actions:
           - label: Registration
