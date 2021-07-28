@@ -8,7 +8,7 @@ sections:
       - label: ORDER NOW
         url: /about
         style: primary
-        has_icon: true
+        has_icon: false
     align: center
     padding_top: large
     padding_bottom: large
