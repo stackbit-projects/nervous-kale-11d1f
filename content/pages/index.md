@@ -239,22 +239,6 @@ sections:
     background_color: primary
     background_image: images/pricing-background.jpg
     background_image_opacity: 10
-  - type: cta_section
-    title: Current price is only $49. The price will increase soon!
-    actions:
-      - label: Get tickets
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image_opacity: 50
   - type: grid_section
     title: What People are Saying
     subtitle: Previous event attendees
