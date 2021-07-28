@@ -99,7 +99,7 @@ sections:
           **[Twitter](https://twitter.com/)**
         image_alt: Speaker 4 photo
         image_position: top
-      - title: lorem-ipsum
+      - title: Al-Arabi
         subtitle: lorem-ipsum
         title_align: left
         content: >-
