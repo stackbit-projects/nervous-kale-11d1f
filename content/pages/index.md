@@ -77,7 +77,7 @@ sections:
         image_width: twenty-five
         image_align: center
         image_has_padding: true
-      - title: Indigo Violet
+      - title: Tausiffur Rahman Alif
         subtitle: 'Microsoft, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
