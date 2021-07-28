@@ -76,7 +76,7 @@ sections:
         image: /images/tausiffur rahman alif.jpg
         image_alt: Speaker 3 photo
         image_position: top
-        image_has_padding: true
+        image_has_padding: false
       - title: Sifat Bin Hossain
         subtitle: Team Member
         image_alt: Speaker 4 photo
