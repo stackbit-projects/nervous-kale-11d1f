@@ -7,7 +7,7 @@ sections:
     actions:
       - label: ORDER NOW
         url: /about
-        style: link
+        style: primary
     align: center
     padding_top: large
     padding_bottom: large
