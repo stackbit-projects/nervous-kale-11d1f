@@ -65,7 +65,7 @@ sections:
 
           ### 150TK
 
-          Conference Stickers
+          ##### Conference Stickers
 
           *   Technology discussion rooms
 
