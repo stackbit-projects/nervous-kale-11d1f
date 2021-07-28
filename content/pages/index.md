@@ -65,12 +65,6 @@ sections:
         image_align: left
       - title: Kazi Rishika
         subtitle: 'The Studio, Distributed, Estonia'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
         image: /images/kazi rishika.jpg
         image_alt: Speaker 2 photo
         image_position: top
