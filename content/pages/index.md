@@ -5,7 +5,7 @@ sections:
     content: |
       ### **LOVE AT FIRST SLICE**
     actions:
-      - label: Get Your Ticket Today!
+      - label: ORDER NOW!
         url: /about
         style: primary
     align: center
