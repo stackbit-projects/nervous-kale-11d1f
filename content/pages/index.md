@@ -76,7 +76,7 @@ sections:
         image_position: top
         image_width: sixty
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
       - title: Indigo Violet
         subtitle: 'Microsoft, USA'
         content: >-
