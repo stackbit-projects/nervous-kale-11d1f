@@ -19,7 +19,7 @@ sections:
     background_image: /images/ivan-torres-MQUqbmszGGM-unsplash.jpg
   - type: grid_section
     grid_items:
-      - title: 2 Days
+      - title: TAP
         title_align: left
         content: >-
           Attend a two-track and two days conference on all things Jamstack,
