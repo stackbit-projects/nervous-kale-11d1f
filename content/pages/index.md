@@ -62,6 +62,7 @@ sections:
         image_alt: Speaker 1 photo
         image_position: top
         image_has_padding: false
+        image_align: center
       - title: Kazi Rishika
         subtitle: 'The Studio, Distributed, Estonia'
         content: >-
