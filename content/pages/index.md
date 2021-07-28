@@ -75,7 +75,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Summit ticket
+      - title: Just Getting Started
         subtitle: April 14 - 15
         title_align: left
         content: |-
