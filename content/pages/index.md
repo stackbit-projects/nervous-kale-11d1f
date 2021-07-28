@@ -76,7 +76,7 @@ sections:
         actions_width: full-width
         title: CHICKEN PIZZA
       - title: VEGETABLE PIZZA
-        subtitle: 'For '
+        subtitle: For Vegetable Lovers
         title_align: left
         content: |-
           ---
