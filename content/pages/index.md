@@ -96,7 +96,7 @@ sections:
         type: grid_item
         image: /images/pfp.JPG
     grid_cols: three
-    grid_gap_horiz: small
+    grid_gap_horiz: large
     grid_gap_vert: small
     align: center
     background_color: none
