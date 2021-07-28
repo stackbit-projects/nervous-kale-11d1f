@@ -13,7 +13,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image_opacity: 100
+    background_image_opacity: 80
     background_image_size: cover
     image: /images/pizzaroni text.png
     background_image: /images/ivan-torres-MQUqbmszGGM-unsplash.jpg
