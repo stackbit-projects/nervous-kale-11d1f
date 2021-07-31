@@ -6,7 +6,7 @@ sections:
       ### Love At First Slice
     actions:
       - label: ORDER NOW
-        url: /about
+        url: '#'
         style: primary
         has_icon: false
     align: center
