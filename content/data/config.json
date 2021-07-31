@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "ABOUT US",
-                "url": "https://www.facebook.com",
+                "url": "#",
                 "style": "link"
             },
             {
