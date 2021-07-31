@@ -81,6 +81,7 @@ sections:
         subtitle: Team Member
         image_alt: Speaker 4 photo
         image_position: top
+        image: /images/sifat.jpg
       - title: Al-Arabi
         subtitle: Team Member
         title_align: left
