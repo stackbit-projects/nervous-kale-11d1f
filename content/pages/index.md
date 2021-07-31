@@ -83,7 +83,7 @@ sections:
         image_position: top
         image: /images/sifat.jpg
       - title: Al-Arabi
-        subtitle: Team Member
+        subtitle: Technology Officer
         title_align: left
         content_align: left
         actions: []
