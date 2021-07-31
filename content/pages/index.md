@@ -64,7 +64,7 @@ sections:
         image_align: left
         subtitle: Executive Officer
       - title: Sajidul Islam
-        subtitle: Team Leader
+        subtitle: Operating Officer
         image: /images/sajidul islam.jpg
         image_alt: Speaker 2 photo
         image_position: top
