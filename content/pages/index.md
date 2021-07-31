@@ -109,13 +109,13 @@ sections:
     grid_items:
       - title: Address
         content: |
-          **Location:** Dhaka, Bangladesh.
+          **Location:** Dhanmondi 8 , beside Dhanmondi Lake, Robindro Sorobor.
 
-          **Phone:** 019XXX-XXXXX
+          **Phone:** +88018333111000
 
           **Email:** inbox@pizzaroni.com
 
-          **Time:** 10:00 AM to 8:00 PM
+          **Time:** 10:00 AM to 10:00 PM
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
