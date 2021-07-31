@@ -72,7 +72,7 @@ sections:
         image_align: center
         image_has_padding: false
       - title: Tausiffur Rahman Alif
-        subtitle: Team Member
+        subtitle: Financial Officer
         image: /images/tausiffur rahman alif.jpg
         image_alt: Speaker 3 photo
         image_position: top
