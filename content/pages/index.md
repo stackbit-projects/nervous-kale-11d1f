@@ -57,7 +57,7 @@ sections:
     subtitle: Introducing our
     grid_items:
       - title: Sajidul Islam
-        image: /images/sajidul islam.jpg
+        image: /images/kazi rishika.jpg
         image_alt: Speaker 1 photo
         image_position: top
         image_has_padding: false
