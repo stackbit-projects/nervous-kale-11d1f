@@ -78,7 +78,7 @@ sections:
         image_position: top
         image_has_padding: false
       - title: Sifat Bin Hossain
-        subtitle: Team Member
+        subtitle: Marketing Officer
         image_alt: Speaker 4 photo
         image_position: top
         image: /images/sifat.jpg
