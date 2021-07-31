@@ -62,7 +62,7 @@ sections:
         image_position: top
         image_has_padding: false
         image_align: left
-        subtitle: General Manager
+        subtitle: Executive Officer
       - title: Sajidul Islam
         subtitle: Team Leader
         image: /images/sajidul islam.jpg
