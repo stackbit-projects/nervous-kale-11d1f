@@ -63,7 +63,7 @@ sections:
         image_has_padding: false
         image_align: left
         subtitle: Team Member
-      - title: Kazi Rishika
+      - title: Sajidul Islam
         subtitle: Team Leader
         image: /images/sajidul islam.jpg
         image_alt: Speaker 2 photo
