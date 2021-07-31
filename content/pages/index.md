@@ -56,7 +56,7 @@ sections:
     title: Founding Members
     subtitle: Introducing our
     grid_items:
-      - title: Sajidul Islam
+      - title: Kazi Rishika
         image: /images/kazi rishika.jpg
         image_alt: Speaker 1 photo
         image_position: top
