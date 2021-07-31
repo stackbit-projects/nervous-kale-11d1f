@@ -65,7 +65,7 @@ sections:
         subtitle: Team Member
       - title: Kazi Rishika
         subtitle: Team Leader
-        image: /images/kazi rishika.jpg
+        image: /images/sajidul islam.jpg
         image_alt: Speaker 2 photo
         image_position: top
         image_width: twenty-five
